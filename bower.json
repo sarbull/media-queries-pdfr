@@ -1,0 +1,24 @@
+{
+  "name": "media-queries-pdfr",
+  "version": "1.0.0",
+  "authors": [
+    "Sirbu Nicolae-Cezar <sirbunicolaecezar@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "highcharts": "~4.2.7"
+  }
+}
